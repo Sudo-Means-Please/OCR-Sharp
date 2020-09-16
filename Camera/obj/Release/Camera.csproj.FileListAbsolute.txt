@@ -1,0 +1,10 @@
+D:\_Projects\_CSharp\Camera\Camera\bin\Release\Camera.exe.config
+D:\_Projects\_CSharp\Camera\Camera\bin\Release\Camera.exe
+D:\_Projects\_CSharp\Camera\Camera\bin\Release\Camera.pdb
+D:\_Projects\_CSharp\Camera\Camera\obj\Release\Camera.Form1.resources
+D:\_Projects\_CSharp\Camera\Camera\obj\Release\Camera.Properties.Resources.resources
+D:\_Projects\_CSharp\Camera\Camera\obj\Release\Camera.csproj.GenerateResource.cache
+D:\_Projects\_CSharp\Camera\Camera\obj\Release\Camera.csproj.CopyComplete
+D:\_Projects\_CSharp\Camera\Camera\obj\Release\Camera.exe
+D:\_Projects\_CSharp\Camera\Camera\obj\Release\Camera.pdb
+D:\_Projects\_CSharp\Camera\Camera\obj\Release\Camera.csprojAssemblyReference.cache
